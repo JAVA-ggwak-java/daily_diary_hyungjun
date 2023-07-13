@@ -1,0 +1,34 @@
+.editBtn {
+  font-family: 'Nanum Pen Script', cursive;
+  right: 50px;
+  float: right;
+  margin-right: 5px;
+  font-size: 18px;
+  width: 60px
+}
+
+.deleteBtn {
+  font-family: 'Nanum Pen Script', cursive;
+  right: 0;
+  float: right;
+  font-size: 18px;
+  width: 60px;
+}
+
+.okBtn {
+  font-family: 'Nanum Pen Script', cursive;
+  right: 50px;
+  float: right;
+  margin-right: 5px;
+  font-size: 18px;
+  width: 60px
+}
+
+.returnBtn {
+  font-family: 'Nanum Pen Script', cursive;
+  right: 50px;
+  float: right;
+  margin-right: 5px;
+  font-size: 18px;
+  width: 60px
+}
