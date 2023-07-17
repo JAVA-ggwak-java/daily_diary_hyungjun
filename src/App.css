@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
+
+.container {
+  margin: auto;
+  max-width: 600px;
+  padding: 30px;
+  margin-top: 50px;
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: -9px 17px 13px rgb(0, 0, 0 / 16%);
+}
+
+.mainTitle {
+  color: cadetblue;
+  font-size: 60px;
+  text-align: center;
+  line-height: 10px;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+.subTitle {
+  text-align: center;
+  line-height: 30px;
+  font-family: 'Luckiest Guy', cursive;
+  color: cornflowerblue;
+}
+
+.submit {
+  border-radius: 0px 10px 10px 0px;
+  border: 0.5px solid cadetblue;
+  border-left: none;
+  background-color: aquamarine;
+  color: cadetblue;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.writing {
+  border-radius: 10px 0px 0px 10px;
+  border: 0.5px solid yellowgreen;
+}
+
+.writingSpace {
+  margin-bottom: 20px;
+}
+
+.date_text {
+  margin-bottom: 30px;  
+  max-width: 600px;
+  word-break: break-all;
+  line-height: 100%;
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.text {
+  color: cornflowerblue;
+  font-family: 'Nanum Pen Script', cursive;
+  max-width: 450px;
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 7px 0px;
+}
+
+.date {
+  color: darkseagreen;
+  font-family: 'Nanum Pen Script', cursive;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.edit_writing {
+  width: 500px;
+  border-radius: 10px;
+  border: 0.5px solid yellowgreen;
+  margin-right: 5px;
+}
