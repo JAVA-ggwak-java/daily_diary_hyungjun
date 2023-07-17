@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daily_diary_hyungjun/static/css/main.511f76f6.css",
+    "main.js": "/daily_diary_hyungjun/static/js/main.66790a14.js",
+    "static/js/787.f967e44f.chunk.js": "/daily_diary_hyungjun/static/js/787.f967e44f.chunk.js",
+    "index.html": "/daily_diary_hyungjun/index.html",
+    "main.511f76f6.css.map": "/daily_diary_hyungjun/static/css/main.511f76f6.css.map",
+    "main.66790a14.js.map": "/daily_diary_hyungjun/static/js/main.66790a14.js.map",
+    "787.f967e44f.chunk.js.map": "/daily_diary_hyungjun/static/js/787.f967e44f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.511f76f6.css",
+    "static/js/main.66790a14.js"
+  ]
+}
